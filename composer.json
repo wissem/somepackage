@@ -1,0 +1,21 @@
+{
+    "name": "wissem/somepackage",
+    "description": "Some package",
+    "type": "library",
+    
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wissem",
+            "email": "wissemr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "dist": {
+    "type": "zip",
+    "url": "https://github.com/wissem/sample-packagist-package/archive/v3.0.0.zip"
+  },
+    "require": {
+   "monolog/monolog":"a"
+}
+}
