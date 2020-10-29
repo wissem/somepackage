@@ -13,10 +13,10 @@
     ],
     "minimum-stability": "dev",
     "dist": {
-    "type": "zip",
-    "url": "https://github.com/wissem/sample-packagist-package/archive/v3.0.0.zip"
-  },
-    "require": {
-   "monolog/monolog":"a"
-}
+       "type": "zip",
+       "url": "https://github.com/wissem/sample-packagist-package/archive/v3.0.0.zip"
+   },
+   "require": {
+       "monolog/monolog":"a"
+   }
 }
