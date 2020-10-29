@@ -1,6 +1,6 @@
 {
     "name": "wissem/somepackage",
-    "version": "1.0.0",
+    "version": "3.0.0",
     "description": "Some package",
     "type": "library",
     "license": "MIT",
@@ -13,6 +13,6 @@
     "minimum-stability": "dev",
     "dist": {
        "type": "zip",
-       "url": "https://github.com/wissem/sample-packagist-package/archive/v3.0.0.zip"
+       "url": "https://github.com/wissem/sample-packagist-package/archive/%%version%%.zip"
    }
 }
