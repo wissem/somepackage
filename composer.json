@@ -1,6 +1,5 @@
 {
     "name": "wissem/somepackage",
-    "version": "3.0.0",
     "description": "Some package",
     "type": "library",
     "license": "MIT",
