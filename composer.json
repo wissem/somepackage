@@ -12,6 +12,6 @@
     "minimum-stability": "dev",
     "dist": {
        "type": "zip",
-       "url": "https://github.com/wissem/sample-packagist-package/archive/%%version%%.zip"
+       "url": "https://github.com/wissem/sample-packagist-package/archive/%version%.%type%"
    }
 }
