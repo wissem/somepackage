@@ -9,9 +9,8 @@
             "email": "wissemr@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "dist": {
-       "type": "zip",
-       "url": "https://github.com/wissem/sample-packagist-package/archive/%version%.%type%"
-   }
+    "require": {
+        "wissem/sample-packagist-package": "^3.0"
+    },
+    "minimum-stability": "dev"
 }
