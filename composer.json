@@ -9,8 +9,8 @@
             "email": "wissemr@gmail.com"
         }
     ],
-    "require": {
-        "wissem/sample-packagist-package": "^3.0"
-    },
+
+
+
     "minimum-stability": "dev"
 }
