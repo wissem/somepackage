@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "wissem/sample-packagist-package": "^3.0"
+        "wissem/sample-packagist-package": "^3.0",
+"monolog/monolog": "^1.20"
     },
     "minimum-stability": "dev"
 }
