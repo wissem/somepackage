@@ -17,10 +17,10 @@
     },
    "extra":{
       "patches": {
-         "drupal/core-forms":{
+         "wissem/demo-multipackage":{
             "Add startup configuration for PHP server":"https://www.drupal.org/files/issues/add_a_startup-1543858-30-forms-updated.patch"
          },
-          "drupal/ui":{
+          "wrapps/foobar":{
             "Add startup configuration for PHP server":"https://www.drupal.org/files/issues/add_a_startup-1543858-30-ui-updatedadd_a_startup-1543858-30-ui-updated.patch"
          },
           "drupal/debug":{
