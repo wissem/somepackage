@@ -1,34 +1,30 @@
 {
-    "name": "wissem/somepackage",
-    "description": "Some package",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "wissem",
-            "email": "wissemr@gmail.com"
-        }
-    ],
-    "require": {
-         "wissem/sample-packagist-package": "^3.0",
-         "monolog/monolog": "^1.20",
-         "cweagans/composer-patches": "~1.0",
-         "behat/behat": "3.0"
-    },
-   "extra":{
-      "patches": {
-         {
-            "typo3/cms":     {
-                    "6.2.0-beta1": [
-                        {
-                            "title": "[FEATURE] Allow registration of different login forms"
-                        }
-                    ]
-                }
-         }
-          
-       }
-        
+   "name":"wissem/somepackage",
+   "description":"Some package",
+   "type":"library",
+   "license":"MIT",
+   "authors":[
+      {
+         "name":"wissem",
+         "email":"wissemr@gmail.com"
+      }
+   ],
+   "require":{
+      "wissem/sample-packagist-package":"^3.0",
+      "monolog/monolog":"^1.20",
+      "cweagans/composer-patches":"~1.0",
+      "behat/behat":"3.0"
    },
-    "minimum-stability": "dev"
+   "extra":{
+      "patches":{
+         "typo3/cms":{
+            "6.2.0-beta1":[
+               {
+                  "title":"[FEATURE] Allow registration of different login forms"
+               }
+            ]
+         }
+      }
+   },
+   "minimum-stability":"dev"
 }
