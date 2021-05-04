@@ -18,7 +18,13 @@
    "extra":{
       "patches": {
          {
-            "Add startup configuration for PHP server":""
+            "typo3/cms":     {
+                    "6.2.0-beta1": [
+                        {
+                            "title": "[FEATURE] Allow registration of different login forms"
+                        }
+                    ]
+                }
          }
           
        }
