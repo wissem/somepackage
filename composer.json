@@ -17,8 +17,8 @@
    },
    "extra":{
       "patches":{
-         "wissem/somepackage":{
-            "Add startup configuration for PHP server":""
+         "":{
+            "Just some long description here with some patch URL":"https://example.org/patch.diff"
          }
       }
    },
