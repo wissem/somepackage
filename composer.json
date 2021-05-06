@@ -17,17 +17,12 @@
    },
    "extra":{
       "patches":{
-         "wissem/demo-multipackage":{
-            "Add startup configuration for PHP server":"https://www.drupal.org/files/issues/add_a_startup-1543858-30-forms-updated.patch"
-         },
-         "wrapps/foobar":{
-            "foobar":"https://www.drupal.org/files/issues/add_a_startup-1543858-30-ui-updatedadd_a_startup-1543858-30-ui-updated.patch"
-         },
-         "drupal/debug":{
-            "Add startup configuration for PHP server":"https://www.drupal.org/files/issues/add_a_startup-1543858-30-ui-updatedadd_a_startup-1543858-30-ui-updated.patch"
-         },
-         "wissem/sample-packagist-package":{
-            "Add startup configuration for PHP server":"./vendors/acme/foobar.patch"
+         "":{
+            "":[
+               {
+                  "title":"[FEATURE] Allow registration of different login forms"
+               }
+            ]
          }
       }
    },
