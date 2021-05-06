@@ -17,7 +17,7 @@
    },
    "extra":{
       "patches":{
-         "":{
+         "wissem/somepackage":{
             "Add startup configuration for PHP server":""
          }
       }
